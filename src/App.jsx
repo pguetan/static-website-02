@@ -14,12 +14,10 @@ import Footer from './components/Footer';
 
 function App() {
   useEffect(() => {
-    // Re-initialize Webflow on every mount/update if needed
+    // Re-initialize Webflow
     if (window.Webflow && typeof window.Webflow.ready === 'function') {
       window.Webflow.ready();
     }
-    // For specific animations or interactions, Webflow might need a re-init
-    // which is often handled by its internal scripts watching the DOM.
   }, []);
 
   return (
