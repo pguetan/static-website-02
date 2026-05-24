@@ -1,7 +1,0 @@
-@tailwind base;
-@media (min-width: 0px) {
-  @tailwind components;
-}
-@tailwind utilities;
-
-/* Custom index styles if any */
