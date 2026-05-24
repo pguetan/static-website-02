@@ -1,0 +1,4 @@
+Navigating to http://127.0.0.1:8000/index.html
+Capturing screenshot into C:\Users\pguet\Desktop\Code Projects\web-design-codex\output\playwright\scalient-offline.png
+
+---STDERR---

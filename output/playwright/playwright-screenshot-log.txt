@@ -1,0 +1,6 @@
+Navigating to http://127.0.0.1:8000/index.html
+Waiting for selector .inner-title...
+Waiting for timeout 6000...
+Capturing screenshot into C:\Users\pguet\Desktop\Code Projects\web-design-codex\output\playwright\scalient-offline-full.png
+
+---STDERR---
